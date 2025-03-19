@@ -1,7 +1,4 @@
-# VoLTE Patch for Pixel 4/4XL
-
-This module is designed for China Mobile, China Telecom, and China Unicom
-users.
+# VoLTE Patch for Pixel
 
 ## How to use
 
