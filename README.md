@@ -12,7 +12,7 @@ module, reboot your phone, then install the module again!**
 
 ## Notes
 
-+ tested on Pixel 4XL with Lineage OS 18.1 installed
++ tested on Pixel 6pro with pixel OS A15 A16 installed
 + MBNs from
   [XDA](https://forum.xda-developers.com/t/activate-volte-om-pixel-4xl-android-11-r.4163217/)
 + set file context to `u:object_r:vendor_file:s0` resolves the permission  issue
