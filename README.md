@@ -1,5 +1,5 @@
 # VoLTE Patch for Pixel
-
+It is applicable to any device and system version!!!
 ## How to use
 
 + install latest Magisk
