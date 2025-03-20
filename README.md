@@ -1,3 +1,4 @@
+# 版本更新日志请查看下方⚠️
 # VoLTE Patch for Pixel
 It is applicable to any device and system version!!!
 ## How to use
@@ -38,3 +39,7 @@ module, reboot your phone, then install the module again!**
 ### v0.6.0
 
 + 尝试修复视频通话，目前UT接口未找到值 视频通话已注册，理论可用
+
+### v0.6.0
+
++ 设置内显示5GNR开关 可正常驻留5G接打电话
