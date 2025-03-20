@@ -30,3 +30,7 @@ module, reboot your phone, then install the module again!**
 ### v0.2.0
 
 + fix selinux permission issue
+
+### v0.5.0
+
++ 增加在线更新页面 现在应该不需要进入github即可获取更新
