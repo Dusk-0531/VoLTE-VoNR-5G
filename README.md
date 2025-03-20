@@ -34,3 +34,7 @@ module, reboot your phone, then install the module again!**
 ### v0.5.0
 
 + 增加在线更新页面 现在应该不需要进入github即可获取更新
+
+### v0.6.0
+
++ 尝试修复视频通话，目前UT接口未找到值 视频通话已注册，理论可用
