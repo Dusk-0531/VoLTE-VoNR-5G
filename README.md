@@ -40,6 +40,6 @@ module, reboot your phone, then install the module again!**
 
 + 尝试修复视频通话，目前UT接口未找到值 视频通话已注册，理论可用
 
-### v0.6.0
+### v1.0
 
 + 设置内显示5GNR开关 可正常驻留5G接打电话
