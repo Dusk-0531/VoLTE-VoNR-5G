@@ -1,6 +1,6 @@
 {
-  "version": "0.6",
-  "versionCode": 160,
-  "zipUrl": "https://github.com/Dusk-0531/VoLTE-VoNR-5G/releases/download/V0.6/volte.zip",
+  "version": "1.0",
+  "versionCode": 1000,
+  "zipUrl": "https://github.com/Dusk-0531/VoLTE-VoNR-5G/releases/download/V1.0/volte.zip",
   "changelog": "https://raw.githubusercontent.com/Dusk-0531/VoLTE-VoNR-5G/main/README.md"
 }
