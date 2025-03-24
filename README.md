@@ -20,17 +20,17 @@ module, reboot your phone, then install the module again!**
 
 ## Changelog
 
-### v0.1.0
+~~### v0.1.0~~
 
-+ initial version
+~~+ initial version~~
 
-### v0.1.1
+~~### v0.1.1~~
 
-+ remove extra mbn to fix weird issue on latest LOS
+~~+ remove extra mbn to fix weird issue on latest LOS~~
 
-### v0.2.0
+~~### v0.2.0~~
 
-+ fix selinux permission issue
+~~+ fix selinux permission issue~~
 
 ### v0.5.0
 
