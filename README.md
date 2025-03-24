@@ -42,4 +42,8 @@ module, reboot your phone, then install the module again!**
 
 ### v1.0
 
-+ 设置内显示5GNR开关 可正常驻留5G接打电话
+~~+ 设置内显示5GNR开关 可正常驻留5G接打电话~~
+
+### v1.1
+
++ 使用设备树的值 防止出现小部分鸡🥚问题
